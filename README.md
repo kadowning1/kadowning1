@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadowning1
 - 👀 I’m interested in learning new aspects of the full stack process.
-- 🌱 I’m currently learning HTML, CSS, & Javascript to enhance my development capabilities.
+- 🌱 I’m currently learning Laravel, React, and the entire full stack process to enhance my development capabilities.
 - 💞️ I’m looking to collaborate on beginning a coding path, the ups and downs, and the keys to be successful.
 - 📫 Best way to reach me is through email at kadowning1@gmail.com.  Would love to work with you.
 
