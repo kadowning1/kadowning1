@@ -37,4 +37,4 @@ I specialize in building scalable web applications and migrating legacy business
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/kadowning1/](https://www.linkedin.com/in/kadowning1/)
-- **Email:** [Insert your professional email]
+- **Email:** [kadowning1@gmail.com]
