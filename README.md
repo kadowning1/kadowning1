@@ -1,32 +1,35 @@
 # Keith Downing
+**Full-Stack Developer — Next.js 15 · React 19 · TypeScript · GraphQL**
 
-**Full-Stack Developer | Next.js 15 • React 19 • TypeScript • GraphQL**
-
-I specialize in building scalable web applications and migrating legacy business workflows into modern, type-safe systems. With over 4 years of experience at APAX Software, I bridge the gap between complex data architecture and high-end user experiences.
-
----
-
-### 🚀 Featured Production Work
-*Note: Much of my work is in private enterprise repositories. Summaries of architecture and impact are provided below.*
-
-#### **Mass Lodge — Enterprise Travel Management ERP**
-*   **Role:** Full-Stack Developer & Acting Product Owner
-*   **Architecture:** Next.js 15 (App Router), React 19, Turborepo Monorepo, Drizzle ORM, PostgreSQL.
-*   **Impact:** Personally delivered **71% of engineering requirements (381 unique tickets)** over 22 months, generating **$189k+ in billable revenue**.
-*   **Key Challenge:** Architected a 10-package monorepo standardizing shared UI, validation (Zod), and database schemas across multiple internal tools.
-
-#### **FindHelpNow — CDC-Funded Crisis Resource Platform**
-*   **Role:** Full-Stack Developer
-*   **Architecture:** Django 5, GraphQL (Graphene), Apollo Client, PostgreSQL + PostGIS.
-*   **Impact:** Delivered **391 commits and 211 PRs (21% of codebase)** over 2.5 years. Led the implementation of GA4 tracking and Section 508 Accessibility compliance.
-*   **Key Challenge:** Optimized high-scale GraphQL resolvers handling 147+ operations using Django prefetch/select patterns to eliminate N+1 overhead.
-
-#### **Play1 — Fundraising & E-Commerce SaaS**
-*   **Key Feature:** Engineered a custom **TipTap-based rich text editor (~1,000 LOC)** and refactored Supabase Auth for complex multi-tenant organization context.
+I turn legacy business workflows into things that actually work, and occasionally write TypeScript so type-safe it argues back. Been at APAX Software for 4+ years, mostly staring at database schemas and wondering why someone made that decision (sometimes it was me).
 
 ---
 
-### 🛠️ Tech Stack
+### Featured Work
+
+*Most of my code lives in private enterprise repos. Here's what I can actually talk about.*
+
+#### Mass Lodge — Enterprise Travel Management ERP
+- **Role:** Full-Stack Developer & Acting Product Owner
+- **Stack:** Next.js 15 (App Router), React 19, Turborepo, Drizzle ORM, PostgreSQL
+- Delivered **71% of engineering requirements (381 tickets)** over 22 months — **$189k+ in billable revenue**
+- Built a 10-package Turborepo monorepo to standardize shared UI, Zod validation, and DB schemas across internal tools. It was a good call. I checked.
+
+#### FindHelpNow — CDC-Funded Crisis Resource Platform
+- **Role:** Full-Stack Developer
+- **Stack:** Django 5, GraphQL (Graphene), Apollo Client, PostgreSQL + PostGIS
+- **391 commits, 211 PRs, 21% of the codebase** over 2.5 years
+- Wrangled 147+ GraphQL operations into shape using Django prefetch/select patterns — N+1 queries were not invited back
+- Led GA4 tracking implementation and Section 508 accessibility compliance
+
+#### Play1 — Fundraising & E-Commerce SaaS
+- Built a custom TipTap rich text editor (~1,000 LOC) because sometimes the right tool doesn't exist yet
+- Refactored Supabase Auth to handle multi-tenant org context without everything catching fire
+
+---
+
+### Tech Stack
+
 - **Languages:** TypeScript, Python, SQL
 - **Frontend:** Next.js 15, React 19, Tailwind CSS 4, TanStack Query, shadcn/ui
 - **Backend/API:** Node.js, Django, GraphQL, Server Actions, REST
@@ -35,6 +38,8 @@ I specialize in building scalable web applications and migrating legacy business
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/kadowning1/](https://www.linkedin.com/in/kadowning1/)
-- **Email:** [kadowning1@gmail.com]
+### Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/kadowning1](https://www.linkedin.com/in/kadowning1/)
+- **Email:** kadowning1@gmail.com
+
